@@ -10,6 +10,7 @@
     "lint": "eslint --fix \"src/**/*.{ts,tsx}\""
   },
   "devDependencies": {
+    "@types/cors": "^2.8.17",
     "@types/react-dom": "^19.0.4",
     "@typescript-eslint/eslint-plugin": "^8.25.0",
     "@typescript-eslint/parser": "^8.25.0",
